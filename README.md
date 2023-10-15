@@ -1,5 +1,5 @@
 
- <!DOCTYPE html> 
+ 
  <h1> RESUME </h1>
 <h2>HEMNATH</h2>
 <h3>B.E - Computer Science Engineering</h3>
