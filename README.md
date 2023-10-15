@@ -1,7 +1,8 @@
 
 
 <html lang="en">
-<h1>HEMNATH</h1>
+<h1> RESUME <h2>    
+<h2>HEMNATH</h2>
 <h3>B.E - Computer Science Engineering</h3>
 <img src="./WhatsApp Image 2023-10-14 at 22.07.28_5d22ca31.jpg" width="500">
 <h3> SCHOOLING</h3>
